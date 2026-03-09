@@ -12,11 +12,6 @@ The goal is to present key business metrics and insights through an easy-to-unde
 
 ---
 
-## 📷 Dashboard Preview
-
-![Sales Dashboard](dashboard.png)
-
----
 
 ## 📈 Key Metrics
 
